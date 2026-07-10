@@ -1,0 +1,10 @@
+101;Beras Ramos 5Kg;Sembako;50;65000;75000
+102;Gula Pasir 1Kg;Sembako;40;14000;17000
+103;Minyak Goreng 1L;Sembako;30;15000;18000
+104;Kopi Bubuk;Minuman;25;10000;13000
+105;Teh Celup;Minuman;20;8000;10000
+106;Susu UHT;Minuman;35;12000;15000
+107;Mie Instan;Makanan;100;2500;3500
+108;Biskuit Coklat;Makanan;45;7000;9000
+109;Sabun Mandi;Perawatan;50;4000;6000
+110;Shampoo Sachet;Perawatan;60;1500;2500

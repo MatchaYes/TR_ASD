@@ -1,0 +1,4 @@
+manager;manager123;MANAGER
+kasir01;kasir123;KASIR
+kasir02;kasir456;KASIR
+kasir03;kasir789;KASIR

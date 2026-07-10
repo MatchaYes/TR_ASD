@@ -1,0 +1,10 @@
+1;Budi
+2;Andi
+3;Siti
+4;Rina
+5;Dewi
+6;Joko
+7;Agus
+8;Lina
+9;Tono
+10;Putri

@@ -1,0 +1,5 @@
+1;PT Sembako Jaya;Semarang
+2;PT Maju Makmur;Salatiga
+3;CV Berkah Abadi;Solo
+4;PT Nusantara Distribusi;Yogyakarta
+5;CV Sentosa;Magelang
