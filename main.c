@@ -108,24 +108,28 @@ void hapusTransaksi();
 
 int tambahStokBarang(int kode,int jumlah);
 
-int main(){
+int main()
+{
     int role;
 
-    do{
+    while(1)
+    {
         role = login();
 
-        if(role == 1){
+        if(role == 1)
+        {
             menuManager();
         }
-        else if(role == 2){
+        else if(role == 2)
+        {
             menuKasir();
         }
-        else{
+        else
+        {
             printf("\nLogin gagal!\n");
             pauseProgram();
         }
-
-    }while(role == 0);
+    }
 
     return 0;
 }
